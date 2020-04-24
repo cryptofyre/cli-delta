@@ -1,4 +1,4 @@
-https://imgur.com/a/QK00SV1
+https://i.imgur.com/Iw8CUyo.png
 # DELTA
 ## The ultimate CLI desktop enviroment tweaker.
 
